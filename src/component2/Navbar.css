@@ -1,0 +1,28 @@
+.nav2{
+    background-color: #f73a4c;
+    color: #1f2324;
+    height:90px ;
+    cursor: pointer;
+}
+.nav2 ul{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    font-weight: 700;
+
+}
+.nav2 ul li{
+
+    list-style: none;
+    justify-content: space-around;
+    margin-top: 33px;
+    font-size: 20px;
+    
+    
+}
+#nav2 li:hover {
+    color:white
+}
